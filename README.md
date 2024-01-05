@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/benji-chang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benji-chang" height="30" width="40" /></a>
-<a href="https://discord.gg/bomb5678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bomb5678" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/bomb3077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bomb5678" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
