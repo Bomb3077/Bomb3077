@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Yu Sheng Chang</h1>
 <h3 align="center">A passionate CS and Math student in UofT</h3>
 
-- 🔭 I’m currently working on [Ricochet Robot](https://github.com/Bomb3077/Ricochet-Robot)
+- 🔭 I’m currently working on [AI Influencer](https://github.com/Bomb3077/AI-influencer)
 
 - 🌱 I’m currently learning **PHP**
 
