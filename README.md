@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ricochet Robot](https://github.com/Bomb3077/Ricochet-Robot)
 
-- 🌱 I’m currently learning **Pinecone**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bomb3077/](https://github.com/Bomb3077/)
 
